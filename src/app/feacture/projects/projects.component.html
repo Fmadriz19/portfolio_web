@@ -1,0 +1,20 @@
+<div class="border-b border-neutral-900 pb-4 px-4">
+
+    <h1 class="my-20 text-center text-4xl">Projects</h1>
+
+    <div *ngFor="let project of data" class="mb-8 flex flex-wrap lg:justify-center gap-12">
+        <div class="w-full lg:w-1/4">
+            <img [src]="project.img" [alt]="project.title" class="rounded mb-6" />
+        </div>
+        <div class="w-full max-w-xl lg:w-3/4">
+            <h6 class="mb-2 font-semibold"> 
+                {{project.title}}
+            </h6>
+            <p class="text-sm text-neutral-400 mb-2"> {{project.description}} </p>
+
+            <span *ngFor="let item of project.technologies" class="mr-2 rounded-lg bg-neutral-800 px-2 py-1 text-sm font-medium text-slate-50">
+                {{ item }}
+            </span>
+        </div>
+    </div>
+</div>

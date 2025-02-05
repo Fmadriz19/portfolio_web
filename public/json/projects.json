@@ -1,0 +1,74 @@
+{
+    "projects": [
+        {
+            "img": "/web/projects/nlr.png",
+            "title": "E-commerce",
+            "description": "Creation of E-commerce platforms, designing seamless user experiences and implementing robust backend solutions to drive business growth.",
+            "technologies": [
+                "Angular",
+                "TypeScript",
+                "Firebase",
+                "MySQL",
+                "FastAPI",
+                "Python",
+                "Laravel",
+                "TailwindCSS",
+                "MailTrap"
+            ]
+        },
+        {
+            "img": "/web/projects/cineunivers.png",
+            "title": "Shopping Tickets for Movies",
+            "description": "This was a university project where we had to simulate how movie ticket purchases work. The system included real-time seat selection, displaying available, occupied, and selected seats dynamically. It was a great opportunity to apply frontend and backend integration while ensuring a smooth user experience.",
+            "technologies": [
+                "Angular",
+                "Bootstrap",
+                "TailwindCSS",
+                "Laravel",
+                "PrimeNG",
+                "MySQL"
+            ]
+        },
+        {
+            "img": "/web/projects/portfolio.png",
+            "title": "Portfolio Website",
+            "description": "A personal portfolio website to showcasing projects, skills and contact information.",
+            "technologies": [
+                "Angular",
+                "TypeScript",
+                "TailwindCSS"
+            ]
+        },
+        {
+            "img": "/web/projects/movies.png",
+            "title": "Netflix Type Website",
+            "description": "This is a personal project that uses an external database to display featured movies and a wide range of films to the user. The platform offers an intuitive and visually appealing interface, allowing users to explore and discover movies effortlessly.",
+            "technologies": [
+                "Angular",
+                "TypeScript",
+                "TailwindCSS"
+            ]
+        },
+        {
+            "img": "/web/projects/tattoo.png",
+            "title": "Tattoo Website",
+            "description": "This is a personal project where users can explore tattoo designs created by various artists. The platform allows users to book appointments with their preferred tattoo artist, offering a seamless and intuitive experience. It combines modern design with robust functionality to connect tattoo enthusiasts with talented artists.",
+            "technologies": [
+                "React",
+                "JavaScript",
+                "NestJS",
+                "PostgreSQL",
+                "TailwindCSS",
+                "Motion Framer"
+            ]
+        },
+        {
+            "img": "/web/projects/chatbot.png",
+            "title": "ChatBot Telegram",
+            "description": "This was a university project where users could interact with a chatbot to ask questions about blockchain technology and explore interesting facts about it. The chatbot provided clear and concise answers, making it an educational and engaging tool for learning about blockchain concepts and curiosities.",
+            "technologies": [
+                "Python"
+            ]
+        }
+    ]
+}

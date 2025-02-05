@@ -1,0 +1,22 @@
+<div class="border-b border-neutral-900 pb-4 px-4">
+    <h1 class="my-20 text-center text-4xl">Experience</h1>
+
+    <div *ngFor="let expe of data" class="mb-8 flex flex-wrap lg:justify-center">
+        <div class="w-full lg:w-1/4">
+            <p class="mb-2 text-sm text-neutral-400"> {{expe.period}} </p>
+        </div>
+        <div class="w-full max-w-xl lg:w-3/4">
+            <h6 class="mb-2 font-semibold"> 
+                {{expe.position}} - 
+                <span class="text-sm text-purple-100"> {{expe.company}} </span>
+                
+            </h6>
+            <p class="text-sm text-neutral-400 mb-2"> {{expe.description}} </p>
+
+            <span *ngFor="let item of expe.technologies" class="mr-2 my-4 rounded-lg bg-neutral-900 px-2 py-1 text-sm font-medium text-slate-50">
+                {{ item }}
+            </span>
+        </div>
+    </div>
+
+</div>

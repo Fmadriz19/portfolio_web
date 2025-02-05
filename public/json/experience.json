@@ -1,0 +1,31 @@
+{
+    "experiences": [
+        {
+            "company": "Switchgear de Venezuela C.A",
+            "position": "Electrical Assistant",
+            "period": "2018 - 2022",
+            "description": "Maintenance of electrical substations and circuit breakers (High-Medium-Low voltage)."
+        },
+        {
+            "company": "Repmantdis C.A",
+            "position": "Electrical Technician",
+            "period": "2014 - Present",
+            "description": "Maintenance of electrical substations and circuit breakers (High-Medium-Low voltage)."
+        },
+        {
+            "company": "Inversiones NLR Electric C.A",
+            "position": "Full Stack Developer",
+            "period": "3 months",
+            "description": "Creation of E-commerce platforms, designing seamless user experiences and implementing robust backend solutions to drive business growth.",
+            "technologies": [
+                "Angular",
+                "TypeScript",
+                "Firebase",
+                "MySQL",
+                "FastAPI",
+                "Python",
+                "Laravel"
+            ]
+        }
+    ]
+}
