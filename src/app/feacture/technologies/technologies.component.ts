@@ -1,4 +1,4 @@
-import { Component } from '@angular/core';
+import { Component, Input } from '@angular/core';
 
 @Component({
   selector: 'app-technologies',
@@ -7,5 +7,5 @@ import { Component } from '@angular/core';
   styleUrl: './technologies.component.css'
 })
 export class TechnologiesComponent {
-  
+
 }

@@ -3,7 +3,7 @@
         {
             "img": "/web/projects/nlr.png",
             "title": "E-commerce",
-            "description": "Creation of E-commerce platforms, designing seamless user experiences and implementing robust backend solutions to drive business growth.",
+            "description": "In charge of the development of an e-commerce. Development of the UX/UI for the NLR Electric system. Implementation of an inventory control system and a scraping module. Management of customer and employee authentication, recording of sales made by customers and purchases by the company ",
             "technologies": [
                 "Angular",
                 "TypeScript",

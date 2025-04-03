@@ -1,22 +1,16 @@
 {
     "experiences": [
         {
-            "company": "Switchgear de Venezuela C.A",
-            "position": "Electrical Assistant",
-            "period": "2018 - 2022",
-            "description": "Maintenance of electrical substations and circuit breakers (High-Medium-Low voltage)."
-        },
-        {
-            "company": "Repmantdis C.A",
-            "position": "Electrical Technician",
-            "period": "2024 - Present",
-            "description": "Maintenance of electrical substations and circuit breakers (High-Medium-Low voltage)."
+            "company": "Swing Jump Sabana",
+            "position": "Developer",
+            "period": "2025 - Present",
+            "description": "Responsible for the development of the web system dedicated to the sale of products and subscription for online classes. "
         },
         {
             "company": "Inversiones NLR Electric C.A",
             "position": "Full Stack Developer",
-            "period": "3 months",
-            "description": "Creation of E-commerce platforms, designing seamless user experiences and implementing robust backend solutions to drive business growth.",
+            "period": "2022 - 2024",
+            "description": "In charge of the development of an e-commerce. Development of the UX/UI for the NLR Electric system. Implementation of an inventory control system and a scraping module. Management of customer and employee authentication, recording of sales made by customers and purchases by the company ",
             "technologies": [
                 "Angular",
                 "TypeScript",
